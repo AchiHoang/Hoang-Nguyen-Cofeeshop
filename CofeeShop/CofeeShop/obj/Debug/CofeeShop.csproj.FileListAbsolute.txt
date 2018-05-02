@@ -1,0 +1,10 @@
+E:\project\CofeeShop\CofeeShop\bin\Debug\CofeeShop.exe.config
+E:\project\CofeeShop\CofeeShop\bin\Debug\CofeeShop.exe
+E:\project\CofeeShop\CofeeShop\bin\Debug\CofeeShop.pdb
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.csprojResolveAssemblyReference.cache
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.MenuSystem.resources
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.Properties.Resources.resources
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.csproj.GenerateResource.Cache
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.csproj.CoreCompileInputs.cache
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.exe
+E:\project\CofeeShop\CofeeShop\obj\Debug\CofeeShop.pdb
